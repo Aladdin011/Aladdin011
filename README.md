@@ -22,13 +22,13 @@ Full-Stack Software Engineer focused on building scalable web applications, micr
 
 ## 🔥 Featured Projects
 
-### 🤖 AI Hiring Agent  
-AI-powered recruitment assistant for automating candidate screening and workflows  
+### AladdinCodes
+Modern software engineering portfolio showcasing full-stack development, AI automation, and technical problem-solving.
 
-**Tech:** Node.js • React • OpenAI  
-**Focus:** Automation, AI workflows, system efficiency  
+Tech: React • Next.js • TypeScript • Python • AI
+Focus: Full-Stack Engineering, AI Automation, Scalable Systems 
 
-🔗 https://github.com/Aladdin001/ai-hiring-agent  
+🔗 https://github.com/Aladdin001/Portfolio
 
 ---
 
@@ -38,17 +38,17 @@ Secure enterprise application with authentication and real-time tracking
 **Tech:** React • Node.js • JWT  
 **Focus:** Security, RBAC, scalability  
 
-🔗 https://github.com/Aladdin001/jdmarc-enterprise-app  
+🔗 https://github.com/Aladdin001/Jdm
 
 ---
 
-### 📊 Real-Time Analytics System  
-High-performance analytics platform with live data processing  
+### 📊 Faceless YouTube OS
+AI-powered content automation system for researching, strategizing, and producing faceless YouTube content
 
-**Tech:** Next.js • Python • ML  
-**Focus:** Data pipelines, performance, real-time systems  
+Tech: Python • Ollama • Qwen3 • Supabase
+Focus: AI agents, content research, automation, LLM pipelines
 
-🔗 https://github.com/Aladdin001/analytics-system  
+🔗 https://github.com/Aladdin001/faceless-youtube-os  
 
 ---
 
@@ -58,7 +58,7 @@ Modern corporate web platform for engineering workflows
 **Tech:** Next.js • TailwindCSS  
 **Focus:** UI/UX, performance, accessibility  
 
-🔗 https://github.com/Aladdin001/surani-platform  
+🔗 https://github.com/Aladdin001/Jdm  
 
 ---
 
