@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Salihu Nurudeen Muhammed</h1>
+<h1 align="center">👋 Hi, I'm Salihu Nurudeen</h1>
 <h3 align="center">Full-Stack Software Engineer | AI Automation | Microservices</h3>
 
 <p align="center">
